@@ -3,10 +3,7 @@
 <p>Okay i'ts obvious i love technology! and if you are here, you love too.</p> 
 
 <h3>Some things about me: </h3>
-<span>🔭 I'm currently working at Capgemini Brasil as an Angular developer</span><br>
-<span>🌱 I’m currently learning Java</span><br>
-<span>🎮 I'm completely passionate about developing games and play.</span>
-
+<span>🔭 I'm currently working at Celebrar Brasil as an React developer</span><br>
 <hr>
 <div align="center">
   <a href="https://github.com/afernandes97">
