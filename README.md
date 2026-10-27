@@ -3,7 +3,7 @@
 <p>Okay i'ts obvious i love technology! and if you are here, you love too.</p> 
 
 <h3>Some things about me: </h3>
-<span>🔭 I'm currently working at Celebrar Brasil as an React developer</span><br>
+<span>🔭 I'm currently working at Celebrar Brasil as an Software engineer</span><br>
 <hr>
 <div align="center">
   <a href="https://github.com/afernandes97">
